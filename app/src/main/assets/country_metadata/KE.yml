@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isLeftHandTraffic: true
+mobileCountryCode: 639
+officialLanguages: [en, sw]
+orchardProduces: [banana, guava, mango, mangosteen, tea, tomato, pineapple, avocado, papaya, coconut,
+  coffee, orange, cashew_nut, sisal, lemon, lime, grapefruit, pear]
+popularSports: [golf, soccer, tennis, basketball, cricket]

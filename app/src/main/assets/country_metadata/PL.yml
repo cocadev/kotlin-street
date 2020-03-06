@@ -1,0 +1,10 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: false
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 260
+officialLanguages: [pl]
+orchardProduces: [apple, tomato, strawberry, raspberry, cherry, plum, pear, blueberry, peach, walnut,
+  hazelnut, hop, apricot, chestnut]
+popularSports: [soccer, athletics, volleyball, basketball, handball, tennis]
+regularShoppingDays: 5

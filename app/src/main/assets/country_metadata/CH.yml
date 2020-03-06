@@ -1,0 +1,9 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: false
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 228
+officialLanguages: [de, fr, it, rm]
+orchardProduces: [apple, grape, tomato, pear, strawberry, apricot, cherry, plum, raspberry, walnut,
+  chilli_pepper, sweet_pepper, kiwi, blueberry, peach, chestnut]
+popularSports: [soccer, tennis, basketball, shooting, equestrian]

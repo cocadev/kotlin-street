@@ -1,0 +1,9 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [en]
+isLeftHandTraffic: true
+mobileCountryCode: 502
+officialLanguages: [ms]
+orchardProduces: [rubber, coconut, pineapple, banana, tomato, guava, mango, mangosteen, papaya, pepper,
+  cashew_nut, orange, grapefruit, tea, coffee, lemon, lime, chilli_pepper, sweet_pepper]
+popularReligions: [muslim, buddhist, christian, hindu, chinese_folk, taoist]
+popularSports: [soccer, tennis, basketball, volleyball, badminton, sepak_takraw]

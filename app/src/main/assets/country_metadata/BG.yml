@@ -1,0 +1,8 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [en]
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 284
+officialLanguages: [bg]
+orchardProduces: [grape, tomato, pepper, plum, apple, peach, apricot, raspberry, strawberry, walnut,
+  cherry, pear, chilli_pepper, sweet_pepper, almond, chestnut]

@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isSlowZoneKnown: true
+mobileCountryCode: 334
+officialLanguages: [es]
+orchardProduces: [orange, tomato, chilli_pepper, sweet_pepper, lemon, lime, banana, guava, mango, mangosteen,
+  avocado, coconut, papaya, pineapple, apple, strawberry, grapefruit, grape, peach]
+popularSports: [soccer, basketball, baseball, tennis]

@@ -1,0 +1,10 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: false
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 232
+officialLanguages: [de]
+orchardProduces: [grape, apple, tomato, pear, chilli_pepper, sweet_pepper, strawberry, plum, apricot,
+  cherry, walnut, peach, raspberry, hop]
+popularSports: [soccer, tennis, equestrian, beachvolleyball]
+regularShoppingDays: 5

@@ -1,0 +1,9 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [sr, it]
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 219
+officialLanguages: [hr]
+orchardProduces: [grape, apple, tomato, olive, chilli_pepper, sweet_pepper, plum, peach, pear, strawberry,
+  cherry, hazelnut, fig, apricot, walnut, orange]
+popularSports: [soccer, tennis, basketball, boules, handball]

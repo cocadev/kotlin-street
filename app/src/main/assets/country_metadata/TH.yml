@@ -1,0 +1,9 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [en]
+isLeftHandTraffic: true
+mobileCountryCode: 520
+officialLanguages: [th]
+orchardProduces: [rubber, guava, mango, mangosteen, pineapple, banana, coconut, grapefruit, papaya,
+  orange, tomato, lemon, lime, grape, tea, areca_nut, coffee, cashew_nut]
+popularReligions: [buddhist, muslim, chinese_folk, taoist]
+popularSports: [tennis, soccer, golf, basketball, badminton, sepak_takraw]

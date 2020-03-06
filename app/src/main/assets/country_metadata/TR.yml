@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isLivingStreetKnown: true
+mobileCountryCode: 286
+officialLanguages: [tr]
+orchardProduces: [tomato, grape, apple, olive, orange, lemon, lime, apricot, peach, hazelnut, pear,
+  strawberry, banana, fig, plum, grapefruit]
+popularReligions: [muslim]

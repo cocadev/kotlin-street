@@ -1,0 +1,8 @@
+# Do not edit. Source files are in /res/country_metadata
+isLeftHandTraffic: true
+mobileCountryCode: 374
+officialLanguages: [en]
+orchardProduces: [coconut, banana, lemon, lime, orange, tomato, pineapple, grapefruit, chilli_pepper,
+  sweet_pepper, papaya, guava, mango, mangosteen, avocado, nutmeg, cacao, coffee]
+popularReligions: [christian, hindu]
+popularSports: [cricket]

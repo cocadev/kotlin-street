@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isLivingStreetKnown: true
+mobileCountryCode: 437
+officialLanguages: [ky, ru]
+orchardProduces: [tomato, apple, apricot, plum, pear, peach, grape, walnut, cherry, hazelnut, raspberry,
+  strawberry, almond, chilli_pepper, sweet_pepper, pistachio]
+popularReligions: [muslim]
